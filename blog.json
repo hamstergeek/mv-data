@@ -1,3 +1,9 @@
 {
-	"post__title": "Kerang Ajaib"
+	"post__title": "A New Post",
+	"feed_group": [
+		{
+			"post_title": "Bandung Juara",
+			"post_text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia excepturi nisi velit maiores eveniet dolores quos odit eos labore beatae similique, deserunt consectetur eligendi quod quo inventore. Libero, tenetur, dolores!"
+		}
+	]
 }
