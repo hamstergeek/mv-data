@@ -2,8 +2,16 @@
 	"post__title": "A New Post",
 	"feed_group": [
 		{
+			"post_title": "Tenggelam Kapal",
+			"post_text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia excepturi nisi velit maiores eveniet dolores quos odit eos labore beatae similique, deserunt consectetur eligendi quod quo inventore. Libero, tenetur, dolores!&nbsp; <br /><br />Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia excepturi nisi velit maiores eveniet dolores quos odit eos labore beatae similique, deserunt consectetur eligendi quod quo inventore. Libero, tenetur, dolores! Yah kapan lagi dong<br /><br /><img src=\"https://picsum.photos/300\" alt=\"This image with random\" width=\"300\" height=\"300\" /></p>\n<p>Jika berani maka katakanlah tidak usah basa basi</p>"
+		},
+		{
 			"post_title": "Bandung Juara",
-			"post_text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia excepturi nisi velit maiores eveniet dolores quos odit eos labore beatae similique, deserunt consectetur eligendi quod quo inventore. Libero, tenetur, dolores!"
+			"post_text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia excepturi nisi velit maiores eveniet dolores quos odit eos labore beatae similique, deserunt consectetur eligendi quod quo inventore. Libero, tenetur, dolores!&nbsp; <br /><br />Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia excepturi nisi velit maiores eveniet dolores quos odit eos labore beatae similique, deserunt consectetur eligendi quod quo inventore. Libero, tenetur, dolores!</p>"
 		}
+	],
+	"strength": 58,
+	"person": [
+		{}
 	]
 }
